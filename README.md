@@ -1,2 +1,4 @@
 # READ THIS
-Used by other stuff made by me. If you know how to use manifests you are welcome to use manifests from this repository.
+You can use this repository to download manifests EasyInstaller doesn't have and set them as custom manifests.
+
+EasyInstaller link: https://github.com/Kyiro/Fortnite-ManifestsArchive/releases/
