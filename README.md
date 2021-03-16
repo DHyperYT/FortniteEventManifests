@@ -1,2 +1,2 @@
 # READ THIS
-Used by other stuff made by me. If you know how to use manifests you are welcome to use th.em
+Used by other stuff made by me. If you know how to use manifests you are welcome to use them.
